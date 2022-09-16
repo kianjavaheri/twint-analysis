@@ -1,4 +1,4 @@
-Twitter Scraper + Data Analytics (sentiment analysis)
+# Twitter Scraper + Data Analytics (sentiment analysis)
 
 Dependencies:
 - pandas
